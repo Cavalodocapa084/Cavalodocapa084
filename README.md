@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o **[Fransuelber José]** 👋
 
-<!--
-**Cavalodocapa084/Cavalodocapa084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante do **3° ano do Ensino Técnico em Informática** no período **vespertino**. Estou focado em aprender desenvolvimento de software e construir minha base na área de tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sobre Mim
+
+- 🏫 **Estudos:** Técnico em Informática (Último ano - Turno Vespertino)
+- 🎯 **Objetivo:** Buscando oportunidades de estágio ou jovem aprendiz no turno da manhã.
+- 🌱 **Aprendendo no momento:** [desennvolvimento de softwares]
+
+---
+
+### 🛠️ Principais Tecnologias
+
+- **Linguagens:** HTML, CSS, JavaScript, PHP, Java
+- **Bancos de Dados:** MySQL
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 📬 Contato
+
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 📧 **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
